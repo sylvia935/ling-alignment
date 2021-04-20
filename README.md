@@ -3,6 +3,6 @@ This is the group project for the LIN6932 Computational Linguistics at Universit
 
 Group member: Amanda Griffith, Zane Price, Xiaoyi Tian 
 
-## File directory
+## Files
 
-Syntactic_alignment_steps.ipynb: code for calculating syntactic alignment
+**Syntactic_alignment_steps.ipynb**: code for calculating syntactic alignment
