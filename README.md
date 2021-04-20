@@ -5,4 +5,5 @@ Group member: Amanda Griffith, Zane Price, Xiaoyi Tian
 
 ## Files
 
+**Poster presentation**: 
 **Syntactic_alignment_steps.ipynb**: code for calculating syntactic alignment
