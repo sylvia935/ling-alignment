@@ -2,3 +2,5 @@
 This is the group project for the LIN6932 Computational Linguistics at University of Florida. 
 
 Group member: Amanda Griffith, Zane Price, Xiaoyi Tian 
+
+code for calculating syntactic alignment: Syntactic_alignment_steps.ipynb
