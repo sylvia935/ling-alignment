@@ -17,6 +17,6 @@ Group member: Amanda Griffith, Zane Price, Xiaoyi Tian
 ## The follow-up analysis of this project has produced a journal paper
 Preprint of the paper and code for the regression models is available through this link: https://osf.io/97sak/
 
-Code for calculating *linguistic alignment* in RQ3 are these two files in this repo: `Local_1_syntactic_alignment.ipynb` and `Local_2_lexical_alignment.ipynb`
+Code for calculating *linguistic alignment* (LILLA and SILLA) in RQ3 are these two files in this repo: `Local_1_syntactic_alignment.ipynb` and `Local_2_lexical_alignment.ipynb`
 
 How to cite: Tian, X., Griffith, A. E., Price, Z., Boyer, K. E., & Tang, K. (2025). Investigating Linguistic Alignment in Collaborative Dialogue: A Study of Syntactic and Lexical Patterns in Middle School Students. Language and Speech, 68(1), 63-86.
