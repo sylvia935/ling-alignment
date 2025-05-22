@@ -7,8 +7,8 @@ Group member: Amanda Griffith, Zane Price, Xiaoyi Tian
 
 **Poster presentation**: linguistic-alignment project-poster.pdf
 
-**calculating local syntactic alignment**: Local_1_syntactic_alignment.ipynb
+**calculating local syntactic alignment**: Local_1_syntactic_alignment.ipynb -> used for RQ3 in the linguistic alignmnet journal paper
 
-**calculating local lexical alignment**: Local_2_lexical_alignment.ipynb
+**calculating local lexical alignment**: Local_2_lexical_alignment.ipynb -> used for RQ3 in the linguistic alignmnet journal paper
 
 **calculating global lexical alignment**: Lexical_Alignment_ms.ipynb
